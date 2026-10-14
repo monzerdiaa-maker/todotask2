@@ -64,7 +64,7 @@ function App() {
 
     return (
         <>
-            <h2>TO DO LIST</h2>
+            <h2>MY TO DO LIST</h2>
 
             <button
                 className="theme-toggle"
